@@ -1,61 +1,61 @@
 export const robots = [
     {
       id: 1,
-      name: 'Leanne Graham',
+      name: 'Leanne Mk. 2',
       username: 'Bret',
       email: 'Sincere@april.biz'
     },
     {
       id: 2,
-      name: 'Ervin Howell',
+      name: 'Philip J. Fry',
       username: 'Antonette',
       email: 'Shanna@melissa.tv'
     },
     {
       id: 3,
-      name: 'Clementine Bauch',
+      name: 'Clementine Clamps',
       username: 'Samantha',
       email: 'Nathan@yesenia.net'
     },
     {
       id: 4,
-      name: 'Patricia Lebsack',
+      name: 'Patricia Bender',
       username: 'Karianne',
       email: 'Julianne.OConner@kory.org'
     },
     {
       id: 5,
-      name: 'Chelsey Dietrich',
+      name: 'Chelsey Bolts',
       username: 'Kamren',
       email: 'Lucio_Hettinger@annie.ca'
     },
     {
       id: 6,
-      name: 'Mrs. Dennis Schulist',
+      name: 'Dennis Socket',
       username: 'Leopoldo_Corkery',
       email: 'Karley_Dach@jasper.info'
     },
     {
       id: 7,
-      name: 'Kurtis Weissnat',
+      name: 'Kurtis Kratos',
       username: 'Elwyn.Skiles',
       email: 'Telly.Hoeger@billy.biz'
     },
     {
       id: 8,
-      name: 'Nicholas Runolfsdottir V',
+      name: 'Nicholas Cagebot V',
       username: 'Maxime_Nienow',
       email: 'Sherwood@rosamond.me'
     },
     {
       id: 9,
-      name: 'Glenna Reichert',
+      name: 'Glenna Mario',
       username: 'Delphine',
       email: 'Chaim_McDermott@dana.io'
     },
     {
       id: 10,
-      name: 'Clementina DuBuque',
+      name: 'Clementine Jenkins',
       username: 'Moriah.Stanton',
       email: 'Rey.Padberg@karina.biz'
     }
